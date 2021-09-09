@@ -18,7 +18,7 @@ public class SSOuttake1 {
 
     }
 
-    public void loopOuttake(){
+    public void startOuttake(){
 
     }
 
