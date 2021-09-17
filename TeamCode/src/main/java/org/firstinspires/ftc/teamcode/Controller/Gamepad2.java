@@ -9,8 +9,6 @@ public class Gamepad2 {
 
         Gamepad gamepad2;
         Telemetry telemetry;
-        boolean buttonA = false;
-        boolean buttonB = false;
 
 
 
